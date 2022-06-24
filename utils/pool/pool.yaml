@@ -1,0 +1,1124 @@
+proxies:
+  - {name: AA↑↑以上线路和我不可用↑↑, server: zz-hk-1.lYouTube8.win, port: 21601, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: AZHK白嫖节点丨0.1x, server: azhk1.keaiyun.lol, port: 57411, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: azhk1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: CZ 1｜openit.ml, server: v2cross.com.01.v2ce.com, port: 443, type: trojan, password: mMQ6qJB9xbhiRvgg, skip-cert-verify: true, udp: true}
+  - {name: CZ 2｜openit.ml, server: v2cross.com.02.v2ce.com, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: true, udp: true}
+  - {name: UA 1｜openit.ml, server: v2cross.com.03.v2ce.com, port: 443, type: trojan, password: ZD4dLSBXiMrmzdLd, skip-cert-verify: true, udp: true}
+  - {name: UA 2｜openit.ml, server: v2cross.com.04.v2ce.com, port: 443, type: trojan, password: vGWCNNfBHwSY6m6M, skip-cert-verify: true, udp: true}
+  - {name: UA 3｜openit.ml, server: ce.rutracker-cn.com, port: 443, type: trojan, password: 5y8y3CwxRVYhyfSY, skip-cert-verify: true, udp: true}
+  - {name: UA 4｜openit.ml, server: v2cross.com.05.v2ce.com, port: 443, type: trojan, password: kGrwqmB1nEKUsDwE, skip-cert-verify: true, udp: true}
+  - {name: Z网址 origincloud01.xyz | 这不是节点请切换其他, server: github.com/OriginCloud/WebSite, port: 548, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: vpnpool-BR, server: 139.227.78.64, port: 17112, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: vpnpool-TR, server: 139.227.78.64, port: 17111, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 售后群:659112510, server: zz-hk-1.lYouTube8.win, port: 21601, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: "网易云音乐|解锁节点1 - Windows, Android", server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m, udp: true}
+  - {name: "网易云音乐|解锁节点2 - macOS, iOS, Linux", server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m, udp: true}
+  - {name: 美西A, server: lemon09.1257813.xyz, port: 32755, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon09.1257813.xyz}}, udp: true}
+  - {name: 美西B, server: lemon10.1257813.xyz, port: 34753, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon10.1257813.xyz}}, udp: true}
+  - {name: 🇦🇷 Anycast|阿根廷, server: aflcn.meiquankongjian.com, port: 51529, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇦🇷 V2-阿根廷01 CDN 中继 龟速2x, server: in05.my1188.org, port: 63072, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ag01-cdn.myn1des.com}}, udp: true}
+  - {name: 🇦🇺 AU 1｜openit.ml, server: jgwxn2.gaox.ml, port: 443, type: trojan, password: c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇺 Anycast|澳大利亚, server: aflcn.meiquankongjian.com, port: 51521, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇦🇺 V3-IEPL专线 澳洲01 | 7x, server: iplc01.my1188.org, port: 3213, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇺 澳大利亚 IEPL 01, server: sz-hk.iepl.0000.origincloud.best, port: 1831, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇧🇷 Anycast|巴西, server: aflcn.meiquankongjian.com, port: 51530, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇧🇷 V2-巴西01 中继A, server: in01.my1188.org, port: 63041, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-br01.covid19.rip}}, udp: true}
+  - {name: 🇧🇷 V2-巴西01 中继B, server: in02.my1188.org, port: 63041, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-br01.covid19.rip}}, udp: true}
+  - {name: 🇧🇷 V2-巴西01 中继C, server: in03.my1188.org, port: 63041, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-br01.covid19.rip}}, udp: true}
+  - {name: 🇧🇷 V2-巴西01 中继D, server: in04.my1188.org, port: 63041, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-br01.covid19.rip}}, udp: true}
+  - {name: 🇧🇷 V2-巴西01 中继E, server: in05.my1188.org, port: 63041, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-br01.covid19.rip}}, udp: true}
+  - {name: 🇨🇦 Anycast|加拿大, server: aflcn.meiquankongjian.com, port: 51520, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇨🇦 中转|加拿大01, server: aflzz-us.meiquankongjian.com, port: 42171, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 Anycast|台湾, server: aflcn.meiquankongjian.com, port: 51514, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇨🇳 B台湾01|Netflix|V2|GZ, server: zz-tw-v1.wandou888.win, port: 21711, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇨🇳 B台湾01|Twitter|V1|GZ, server: zz-tw-1.wandou888.win, port: 21611, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇨🇳 B台湾02|流媒体|V1|GZ, server: zz-tw-2.wandou888.win, port: 21612, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇨🇳 B台湾03|流媒体|V1|GZ, server: zz-tw-3.wandou888.win, port: 21613, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇨🇳 B台湾04|Youtube|V1|GZ, server: zz-tw-4.wandou888.win, port: 21614, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇨🇳 CN 1｜openit.ml, server: 106.75.144.232, port: 5031, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 CN 2｜openit.ml, server: sz-hk.iepl.0000.origincloud.best, port: 1112, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 CN 3｜openit.ml, server: tw.relay.2swx.origincloud.best, port: 5402, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 CN 4｜openit.ml, server: 14.29.124.168, port: 24007, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: 🇨🇳 CN 5｜openit.ml, server: l125j4pt.ted1.xyz, port: 26534, type: trojan, password: c142e1fd-df21-32b8-8f19-2f06940fa65d, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN 6｜openit.ml, server: y155k1rt.ted1.xyz, port: 26586, type: trojan, password: c142e1fd-df21-32b8-8f19-2f06940fa65d, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 EXTM3U-台北Hinet-dip, server: 111.241.208.44, port: 39998, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 EXTM3U-台北Hinet-dip 2, server: 111.241.109.247, port: 39998, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 EXTM3U-花莲Hinet-dip, server: 36.227.223.133, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 EXTM3U-高雄Hinet-dip, server: 114.47.109.153, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 Standard|广台|IEPL|01, server: nm1-2.getnjnd.com, port: 3025, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇨🇳 Standard|广台|IEPL|02, server: nm1-2.getnjnd.com, port: 3035, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇨🇳 Standard|广台|IEPL|03, server: nm1-2.getnjnd.com, port: 3045, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇨🇳 Standard|广台|IEPL|04, server: bs2-2.getnjnd.com, port: 3025, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇨🇳 Standard|广台|IEPL|05, server: bs2-2.getnjnd.com, port: 3035, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇨🇳 Standard|广台|IEPL|06, server: bs2-2.getnjnd.com, port: 3045, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇨🇳 TW PRO 01 | Media, server: tw.relay.1aqz.origincloud.best, port: 5401, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 TW PRO 02 | Media, server: tw.relay.2swx.origincloud.best, port: 5402, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 TW PRO 03 | Media, server: tw.relay.3dec.origincloud.best, port: 5403, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 TW PRO 04 | Media, server: tw.relay.4frv.origincloud.best, port: 5404, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 V1-台湾 多台负载均衡 中继A 1.5x, server: in01.my1188.org, port: 63088, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-台湾 多台负载均衡 中继B 1.5x, server: in02.my1188.org, port: 63088, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-台湾 多台负载均衡 中继C 1.5x, server: in03.my1188.org, port: 63088, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-台湾 多台负载均衡 中继D 1.5x, server: in04.my1188.org, port: 63088, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-台湾 多台负载均衡 中继F 1.5x, server: in06.my1188.org, port: 63088, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-台湾99 Hinet直连 速度随缘 0.5x, server: tw99-hinet.myn1des.com, port: 2087, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw99-hinet.myn1des.com}}, udp: true}
+  - {name: "🇨🇳 V1-新加坡 多台负载均衡 中继A 1.5x\t", server: in01.my1188.org, port: 63087, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: sg-balancer.tencent.best}}, udp: true}
+  - {name: 🇨🇳 V1-新加坡 多台负载均衡 中继B 1.5x, server: in02.my1188.org, port: 63087, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: sg-balancer.tencent.best}}, udp: true}
+  - {name: 🇨🇳 V1-新加坡 多台负载均衡 中继C 1.5x, server: in03.my1188.org, port: 63087, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: sg-balancer.tencent.best}}, udp: true}
+  - {name: 🇨🇳 V1-新加坡 多台负载均衡 中继D 1.5x, server: in04.my1188.org, port: 63087, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: sg-balancer.tencent.best}}, udp: true}
+  - {name: 🇨🇳 V1-新加坡 多台负载均衡 中继F 1.5x, server: in06.my1188.org, port: 63087, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: sg-balancer.tencent.best}}, udp: true}
+  - {name: 🇨🇳 V1-日本 多台负载均衡 中继A 1.5x, server: in01.my1188.org, port: 63086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-日本 多台负载均衡 中继B 1.5x, server: in02.my1188.org, port: 63086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-日本 多台负载均衡 中继C 1.5x, server: in03.my1188.org, port: 63086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-日本 多台负载均衡 中继D 1.5x, server: in04.my1188.org, port: 63086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V1-日本 多台负载均衡 中继F 1.5x, server: in06.my1188.org, port: 63086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V2-台湾 多台负载均衡 中继E 1.5x, server: in05.my1188.org, port: 63088, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V2-日本 多台负载均衡 中继E 1.5x, server: in05.my1188.org, port: 63086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+  - {name: 🇨🇳 V3-IEPL专线 台湾03 Hinet | 8x 原生IP, server: iplc01.my1188.org, port: 3073, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生01|1.5x, server: afliplc.getxlx.com, port: 59941, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生02|1.5x, server: afliplc.getxlx.com, port: 59942, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生03|1.5x, server: afliplc.getxlx.com, port: 59943, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生04|1.5x, server: afliplc.getxlx.com, port: 59944, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生05|1.5x, server: afliplc.getxlx.com, port: 59945, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生06|1.5x, server: afliplc.getxlx.com, port: 59946, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生07|1.5x, server: afliplc.getxlx.com, port: 59947, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生08|1.5x, server: afliplc.getxlx.com, port: 59948, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生09|1.5x, server: afliplc.getxlx.com, port: 59949, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 iplc|广台-原生10|1.5x, server: afliplc.getxlx.com, port: 59950, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾, server: 120.197.130.126, port: 13104, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 2, server: 120.197.130.126, port: 13103, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 3, server: 120.197.130.126, port: 13005, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 4, server: 120.197.130.126, port: 13004, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 5, server: 36.139.115.52, port: 11206, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 6, server: 36.139.115.52, port: 11205, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 7, server: 36.139.115.52, port: 11204, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾 8, server: 36.139.115.52, port: 11203, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾-iepl, server: 120.233.7.221, port: 18005, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾-iepl 2, server: 120.233.7.221, port: 18004, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnhat-台湾-iepl 3, server: 120.233.7.221, port: 32003, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 vpnpool-台湾, server: 139.227.78.64, port: 17006, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生01, server: aflzz-tw.meiquankongjian.com, port: 42121, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生02, server: aflzz-tw.meiquankongjian.com, port: 42122, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生03, server: aflzz-tw.meiquankongjian.com, port: 42123, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生04, server: aflzz-tw.meiquankongjian.com, port: 42124, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生05, server: aflzz-tw.meiquankongjian.com, port: 42125, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生06, server: aflzz-tw.meiquankongjian.com, port: 42126, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生07, server: aflzz-tw.meiquankongjian.com, port: 42127, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生08, server: aflzz-tw.meiquankongjian.com, port: 42128, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生09, server: aflzz-tw.meiquankongjian.com, port: 42129, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 中转|台湾-原生10, server: aflzz-tw.meiquankongjian.com, port: 42130, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾01(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58531, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾02(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58532, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾03(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58533, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾04(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58534, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾05(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58535, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾06(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58536, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾07(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58537, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾08(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58538, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾09(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58539, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 动态BGP IPLC|台湾10(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58540, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 台湾 IEPL 01 | Media, server: gz-hk.iepl.0000.origincloud.best, port: 1401, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇨🇳 台湾-01, server: tw.suntory.lol, port: 35711, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: tw.suntory.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 台湾-02, server: tw.suntory.lol, port: 35712, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: tw.suntory.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 Anycast|德国, server: aflcn.meiquankongjian.com, port: 51519, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇩🇪 DE 1｜openit.ml, server: s4.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 K德国01|流媒体|V1|GZ, server: zz-de-1.wandou888.win, port: 21661, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇩🇪 V1-德国01 CDN 中继 1.5x, server: in05.my1188.org, port: 63084, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de01-cdn.airport-v2.com}}, udp: true}
+  - {name: 🇩🇪 V3-IEPL专线 德国01 7x, server: iplc01.my1188.org, port: 3183, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇫🇷 Anycast|法国, server: aflcn.meiquankongjian.com, port: 51526, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇫🇷 法国直连A CDN 速度随缘 0.3x, server: fr-direct-cdn.node001.xyz, port: 2086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: fr-direct-cdn.node001.xyz}}, udp: true}
+  - {name: 🇬🇧 Anycast|英国, server: aflcn.meiquankongjian.com, port: 51518, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇬🇧 GB 1｜openit.ml, server: jgwld1.gaox.ml, port: 443, type: trojan, password: 02e653c9-7c93-46a9-999d-11834bd0c577, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB 2｜openit.ml, server: jgwld2.gaox.ml, port: 443, type: trojan, password: d7fd8aaa-4581-4281-80aa-4b63e5e1f157, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB 3｜openit.ml, server: hk1.keaiyun.lol, port: 35711, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: hk1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB 4｜openit.ml, server: hk1.keaiyun.lol, port: 35712, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: hk1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 GB 5｜openit.ml, server: jgwcc1.gaox.ml, port: 443, type: trojan, password: 7118b5f4-0ea4-4c11-be7f-11471cb91e4a, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 K英国01|流媒体|V2|GZ, server: zz-uk-1.wandou888.win, port: 21665, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇬🇧 V1-英国01 CDN 中继 1.5x, server: in05.my1188.org, port: 63021, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk01-cdn.airport-v2.com}}, udp: true}
+  - {name: 🇬🇧 V3-IEPL专线 英国01 | 8x, server: iplc01.my1188.org, port: 3153, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 vpnpool-GB, server: 139.227.78.64, port: 17105, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 vpnpool-GB 2, server: 139.227.78.64, port: 17104, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 英国 IEPL 01 | Media, server: gz-hk.iepl.0000.origincloud.best, port: 1601, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 Anycast|香港, server: aflcn.meiquankongjian.com, port: 51517, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇭🇰 A香港01|Netflix|V1|GZ, server: zz-hk-1.wandou888.win, port: 21601, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇭🇰 A香港02|Netflix|V1|GZ, server: zz-hk-2.wandou888.win, port: 21602, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇭🇰 A香港03|流媒体|V1|GZ, server: zz-hk-3.wandou888.win, port: 21603, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇭🇰 A香港04|网页|V1|GZ, server: zz-hk-4.wandou888.win, port: 21604, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇭🇰 A香港05|Twitter|V1|GZ, server: zz-hk-5.wandou888.win, port: 21605, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇭🇰 EXTM3U-香港HKBN-dip, server: 183.178.223.60, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 EXTM3U-香港HKT, server: 42.3.19.58, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 EXTM3U-香港HKT 2, server: 116.49.76.103, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 EXTM3U-香港HKT-dip, server: 203.218.84.13, port: 39999, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 10｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20718, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 11｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20719, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 12｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20722, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 13｜openit.ml, server: azhj001.xiba1.xyz, port: 20721, type: trojan, password: 64207627-dea7-38c0-b587-089bc1d32801, sni: azhj001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 14｜openit.ml, server: azgy001.xiba1.xyz, port: 6003, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 15｜openit.ml, server: azgy001.xiba1.xyz, port: 6004, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 16｜openit.ml, server: azgy001.xiba1.xyz, port: 20711, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 17｜openit.ml, server: azgy001.xiba1.xyz, port: 20710, type: trojan, password: 965425cb-5d9e-306a-94bf-9961dd0ecf17, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 18｜openit.ml, server: azgy001.xiba1.xyz, port: 20714, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 19｜openit.ml, server: azgy001.xiba1.xyz, port: 20712, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 1｜openit.ml, server: tj-hk01.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 20｜openit.ml, server: azhj001.xiba1.xyz, port: 20715, type: trojan, password: 5abd9b83-295e-35e4-b0b3-deed61eea35f, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 21｜openit.ml, server: azgy001.xiba1.xyz, port: 20716, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: azgy001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 2｜openit.ml, server: tj-hk02.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 3｜openit.ml, server: dmit1.keaiyun.lol, port: 35711, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: dmit1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 4｜openit.ml, server: dmit1.keaiyun.lol, port: 35713, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: dmit1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 5｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20723, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 6｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20727, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 7｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20726, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 8｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20720, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 9｜openit.ml, server: AZHJ001.xiba1.xyz, port: 20725, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK PRO 11, server: hk.relay.111q.origincloud.best, port: 5111, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 12, server: hk.relay.112w.origincloud.best, port: 5112, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 13, server: hk.relay.113e.origincloud.best, port: 5113, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 21 | Local, server: hk.relay.121q.originlink.xyz, port: 5121, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 22 | Local, server: hk.relay.122w.origincloud.best, port: 5122, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 23 | Local, server: hk.relay.123e.origincloud.best, port: 5123, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 31, server: hk.relay.131q.origincloud.best, port: 5131, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 32, server: hk.relay.132w.origincloud.best, port: 5132, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 HK PRO 51, server: hk.relay.151q.origincloud.best, port: 5151, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|01, server: bs1-1.getnjnd.com, port: 3500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|02, server: bs1-1.getnjnd.com, port: 3501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|03, server: bs1-1.getnjnd.com, port: 3502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|04, server: bs1-1.getnjnd.com, port: 3503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|05, server: bs1-1.getnjnd.com, port: 3504, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|06, server: bs1-1.getnjnd.com, port: 3505, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|07, server: bs1-1.getnjnd.com, port: 3506, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|08, server: bs1-1.getnjnd.com, port: 3507, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|09, server: bs1-1.getnjnd.com, port: 3508, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|10, server: bs1-1.getnjnd.com, port: 3509, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|11, server: bs2-1.getnjnd.com, port: 3500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|12, server: bs2-1.getnjnd.com, port: 3501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|13, server: bs2-1.getnjnd.com, port: 3502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|14, server: bs2-1.getnjnd.com, port: 3503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|15, server: bs2-1.getnjnd.com, port: 3504, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|16, server: bs2-1.getnjnd.com, port: 3505, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|17, server: bs2-1.getnjnd.com, port: 3506, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|18, server: bs2-1.getnjnd.com, port: 3507, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|19, server: bs2-1.getnjnd.com, port: 3508, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 Standard|广港|IEPL|20, server: bs2-1.getnjnd.com, port: 3509, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇭🇰 V1-香港 多台负载均衡 中继A | 1.5x, server: in01.my1188.org, port: 63078, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk-balancer.airport-v2.com}}, udp: true}
+  - {name: 🇭🇰 V1-香港 多台负载均衡 中继B | 1.5x, server: in02.my1188.org, port: 63078, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk-balancer.airport-v2.com}}, udp: true}
+  - {name: 🇭🇰 V1-香港 多台负载均衡 中继C | 1.5x, server: in03.my1188.org, port: 63078, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk-balancer.airport-v2.com}}, udp: true}
+  - {name: 🇭🇰 V1-香港 多台负载均衡 中继D | 1.5x, server: in04.my1188.org, port: 63078, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk-balancer.airport-v2.com}}, udp: true}
+  - {name: 🇭🇰 V1-香港HKT02 CDN 中继 2x, server: in05.my1188.org, port: 63081, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hkt2-cdn.tencent.best}}, udp: true}
+  - {name: 🇭🇰 V1-香港HKT03 CDN 中继 2x, server: in05.my1188.org, port: 63082, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hkt3-cdn.tencent.best}}, udp: true}
+  - {name: 🇭🇰 V2-香港 多台负载均衡 中继E | 1.5x, server: in05.my1188.org, port: 63078, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk-balancer.airport-v2.com}}, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港FDC01 | 7x, server: iplc01.my1188.org, port: 3173, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港HGC01 | 8x 原生IP, server: iplc01.my1188.org, port: 3163, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港HGC02 | 8x 原生IP, server: iplc01.my1188.org, port: 3023, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港HGC03 | 8x 原生IP, server: iplc01.my1188.org, port: 3123, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港HKG01 | 8x 原生IP, server: iplc01.my1188.org, port: 3113, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港HKT01 | 8x 原生IP, server: iplc01.my1188.org, port: 3143, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 V3-IEPL专线 香港HKT04 | 8x 原生IP, server: iplc01.my1188.org, port: 3203, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港-原生01|1.5x, server: afliplc.getxlx.com, port: 59921, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港-原生02|1.5x, server: afliplc.getxlx.com, port: 59922, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港-原生03|1.5x, server: afliplc.getxlx.com, port: 59923, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港-原生04|1.5x, server: afliplc.getxlx.com, port: 59924, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港-原生05|1.5x, server: afliplc.getxlx.com, port: 59925, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港01|1.5x, server: afliplc.getxlx.com, port: 59911, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港02|1.5x, server: afliplc.getxlx.com, port: 59912, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港03|1.5x, server: afliplc.getxlx.com, port: 59913, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港04|1.5x, server: afliplc.getxlx.com, port: 59914, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 iplc|广港05|1.5x, server: afliplc.getxlx.com, port: 59915, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港, server: 120.195.181.51, port: 11508, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 2, server: 120.195.181.51, port: 11507, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 3, server: 120.195.181.51, port: 11506, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 4, server: 120.197.130.126, port: 13003, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 5, server: 120.197.130.126, port: 13002, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 6, server: 120.197.130.126, port: 13001, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 7, server: 36.139.115.52, port: 11303, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 8, server: 36.139.115.52, port: 11302, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港 9, server: 36.139.115.52, port: 11301, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港-iepl, server: 120.233.7.221, port: 18003, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港-iepl 2, server: 120.233.7.221, port: 18002, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港-iepl 3, server: 120.233.7.221, port: 18001, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港-iepl 4, server: 120.233.7.221, port: 32002, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnhat-香港-iepl 5, server: 120.233.7.221, port: 32001, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnpool-香港, server: 139.227.78.64, port: 17003, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnpool-香港 2, server: 139.227.78.64, port: 17002, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 vpnpool-香港 3, server: 139.227.78.64, port: 17001, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中国香港A, server: lemon03.1257813.xyz, port: 42774, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon03.1257813.xyz}}, udp: true}
+  - {name: 🇭🇰 中国香港B, server: lemon04.1257813.xyz, port: 25424, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon04.1257813.xyz}}, udp: true}
+  - {name: 🇭🇰 中转|香港-原生01, server: aflzz-hk.meiquankongjian.com, port: 42111, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港-原生02, server: aflzz-hk.meiquankongjian.com, port: 42112, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港-原生03, server: aflzz-hk.meiquankongjian.com, port: 42113, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港-原生04, server: aflzz-hk.meiquankongjian.com, port: 42114, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港-原生05, server: aflzz-hk.meiquankongjian.com, port: 42115, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港01, server: aflzz-hk.meiquankongjian.com, port: 42101, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港02, server: aflzz-hk.meiquankongjian.com, port: 42102, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港03, server: aflzz-hk.meiquankongjian.com, port: 42103, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港04, server: aflzz-hk.meiquankongjian.com, port: 42104, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 中转|香港05, server: aflzz-hk.meiquankongjian.com, port: 42105, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港01(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58501, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港01|3x, server: flbgpi.meiquankongjian.com, port: 58511, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港02(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58502, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港02|3x, server: flbgpi.meiquankongjian.com, port: 58512, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港03(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58503, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港03|3x, server: flbgpi.meiquankongjian.com, port: 58513, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港04(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58504, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港04|3x, server: flbgpi.meiquankongjian.com, port: 58514, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港05(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58505, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 动态BGP IPLC|香港05|3x, server: flbgpi.meiquankongjian.com, port: 58515, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 福利|香港01|0.1x|限速10Mbps, server: aflzzul.meiquankongjian.com, port: 52511, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflzzul.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇭🇰 香港 01 | 广港 IEPL, server: d2310fcd-a8ed-4d20-8c96-acd33754647e.b3602f85-4520-4b56-ac4b-750c909f603f.7cd36e33-b5a1-452a-89d7-eb1eef58fdfe.yiyuan.cyou, port: 10811, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 01 | 直连, server: hk01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 02 | 广港 IEPL, server: d2310fcd-a8ed-4d20-8c96-acd33754647e.b3602f85-4520-4b56-ac4b-750c909f603f.7cd36e33-b5a1-452a-89d7-eb1eef58fdfe.yiyuan.cyou, port: 10812, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 02 | 直连, server: hk01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 03 | 广港 IEPL, server: d2310fcd-a8ed-4d20-8c96-acd33754647e.b3602f85-4520-4b56-ac4b-750c909f603f.7cd36e33-b5a1-452a-89d7-eb1eef58fdfe.yiyuan.cyou, port: 10813, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 04 | 广港 IEPL, server: d2310fcd-a8ed-4d20-8c96-acd33754647e.b3602f85-4520-4b56-ac4b-750c909f603f.7cd36e33-b5a1-452a-89d7-eb1eef58fdfe.yiyuan.cyou, port: 10814, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 05 | 广港 IEPL, server: d2310fcd-a8ed-4d20-8c96-acd33754647e.b3602f85-4520-4b56-ac4b-750c909f603f.7cd36e33-b5a1-452a-89d7-eb1eef58fdfe.yiyuan.cyou, port: 10815, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 IEPL 11, server: gz-hk.iepl.0000.origincloud.best, port: 1111, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 香港 IEPL 12, server: sz-hk.iepl.0000.origincloud.best, port: 1112, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 香港 IEPL 21 | Full Local, server: sz-hk.iepl.0000.origincloud.best, port: 1121, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 香港 IEPL 51, server: sz-hk.iepl.0000.origincloud.best, port: 1151, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 香港-深圳专线 IPLC 01 | 限速仅限游戏 | 倍率 8x, server: 106.75.144.232, port: 5031, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇭🇰 香港IPLC-倍率10x, server: iplc.keaiyun.lol, port: 45002, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: dmit1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港dmit-01, server: dmit1.keaiyun.lol, port: 35711, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: dmit1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港dmit-02, server: dmit1.keaiyun.lol, port: 35713, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: dmit1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港misaka-01, server: hk1.keaiyun.lol, port: 35711, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: hk1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港misaka-02, server: hk1.keaiyun.lol, port: 35712, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: hk1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 Anycast|印度, server: aflcn.meiquankongjian.com, port: 51524, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇮🇳 IN PRO 01, server: in.relay.1wqe.origincloud.best, port: 5881, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇮🇳 K印度01|流媒体|V1|GZ, server: zz-in-1.wandou888.win, port: 21662, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇮🇳 V2-印度01 中继A | 1.5x, server: in01.my1188.org, port: 63051, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: mugua-in01.airport-v2.com}}, udp: true}
+  - {name: 🇮🇳 V2-印度01 中继B | 1.5x, server: in02.my1188.org, port: 63051, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: mugua-in01.airport-v2.com}}, udp: true}
+  - {name: 🇮🇳 V2-印度01 中继C | 1.5x, server: in03.my1188.org, port: 63051, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: mugua-in01.airport-v2.com}}, udp: true}
+  - {name: 🇮🇳 V2-印度01 中继D | 1.5x, server: in04.my1188.org, port: 63051, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: mugua-in01.airport-v2.com}}, udp: true}
+  - {name: 🇮🇳 V2-印度01 中继E | 1.5x, server: in05.my1188.org, port: 63051, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: mugua-in01.airport-v2.com}}, udp: true}
+  - {name: 🇯🇵 Anycast|日本, server: aflcn.meiquankongjian.com, port: 51512, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇯🇵 G日本01|Netflix|V1|GZ, server: zz-jp-1.wandou888.win, port: 21621, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇯🇵 G日本02|流媒体|V1|GZ, server: zz-jp-2.wandou888.win, port: 21622, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇯🇵 G日本03|Youtube|V1|GZ, server: zz-jp-3.wandou888.win, port: 21623, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇯🇵 G日本04|Abmate|V1|GZ, server: zz-jp-4.wandou888.win, port: 21624, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇯🇵 JP PRO 01, server: jp.relay.zaq1.origincloud.best, port: 5201, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 JP PRO 02, server: jp.relay.xsw2.origincloud.best, port: 5202, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 JP PRO 21 | Media, server: jp.relay.221q.origincloud.best, port: 5221, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 JP PRO 31 | Local, server: jp.relay.231q.origincloud.best, port: 5231, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|01, server: nm1-2.getnjnd.com, port: 4500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|02, server: nm1-2.getnjnd.com, port: 4501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|03, server: nm1-2.getnjnd.com, port: 4502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|04, server: nm1-2.getnjnd.com, port: 4503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|05, server: bs2-2.getnjnd.com, port: 4500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|06, server: bs2-2.getnjnd.com, port: 4501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|07, server: bs2-2.getnjnd.com, port: 4502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 Standard|广日|IEPL|08, server: bs2-2.getnjnd.com, port: 4503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇯🇵 V2-日本03 CDN 中继 1.5x, server: in05.my1188.org, port: 63005, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-jp03.myn0des.com}}, udp: true}
+  - {name: 🇯🇵 V3-IEPL专线 日本04 | 8x, server: iplc01.my1188.org, port: 3013, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日-原生01|1.5x, server: afliplc.getxlx.com, port: 59956, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日-原生02|1.5x, server: afliplc.getxlx.com, port: 59957, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日-原生03|1.5x, server: afliplc.getxlx.com, port: 59958, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日-原生04|1.5x, server: afliplc.getxlx.com, port: 59959, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日-原生05|1.5x, server: afliplc.getxlx.com, port: 59960, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日01|1.5x, server: afliplc.getxlx.com, port: 59951, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 iplc|广日02|1.5x, server: afliplc.getxlx.com, port: 59952, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP, server: 120.195.181.51, port: 11505, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP 2, server: 120.195.181.51, port: 11504, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP 3, server: 120.195.181.51, port: 11503, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP 4, server: 120.195.181.51, port: 11502, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP 5, server: 120.195.181.51, port: 11501, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP 6, server: 120.197.130.126, port: 13009, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP 7, server: 120.197.130.126, port: 13008, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnhat-JP-iepl, server: 120.233.7.221, port: 32004, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnpool-JP, server: 139.227.78.64, port: 17008, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 vpnpool-JP 2, server: 139.227.78.64, port: 17007, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 中转|日本01, server: aflzz-jp.meiquankongjian.com, port: 42141, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 中转|日本02, server: aflzz-jp.meiquankongjian.com, port: 42142, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 中转|日本03, server: aflzz-jp.meiquankongjian.com, port: 42143, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 中转|日本04, server: aflzz-jp.meiquankongjian.com, port: 42144, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 中转|日本05, server: aflzz-jp.meiquankongjian.com, port: 42145, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 动态BGP IPLC|日本01(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58541, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 动态BGP IPLC|日本02(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58542, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 动态BGP IPLC|日本03(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58543, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 动态BGP IPLC|日本04(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58544, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 动态BGP IPLC|日本05(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58545, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 01 | 沪日IEPL, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10721, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 01 | 直连, server: jp01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 02 | 沪日IEPL, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10722, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 02 | 直连, server: jp02.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 03 | 沪日IEPL, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10723, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 03 | 直连, server: jp01.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 04 | 沪日IEPL, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10724, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 04 | 直连, server: jp02.00000000-0000-0000-0000-000000000000.00000000-0000-0000-0000-000000000000.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 05 | 沪日IEPL, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10725, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 IEPL 01, server: gz-hk.iepl.0000.origincloud.best, port: 1201, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 日本 IEPL 21 | Local, server: gz-hk.iepl.0000.origincloud.best, port: 1221, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 日本 IEPL 31 | Local, server: gz-hk.iepl.0000.origincloud.best, port: 1231, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇯🇵 日本A, server: lemon07.1257813.xyz, port: 30423, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon07.1257813.xyz}}, udp: true}
+  - {name: 🇯🇵 日本B, server: lemon08.1257813.xyz, port: 37582, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon08.1257813.xyz}}, udp: true}
+  - {name: 🇯🇵 日本misaka-01, server: jp1.keaiyun.lol, port: 32921, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: jp1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本misaka-02, server: jp1.keaiyun.lol, port: 32922, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: jp1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: "🇯🇵 日本直连A CDN 速度随缘 0.3x\t", server: jp-direct-cdn.node001.xyz, port: 2086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: jp-direct-cdn.node001.xyz}}, udp: true}
+  - {name: 🇯🇵 福利|日本|0.1x|限速10Mbps, server: aflzzul.meiquankongjian.com, port: 52512, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflzzul.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇰🇷 Anycast|韩国, server: aflcn.meiquankongjian.com, port: 51522, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇰🇷 H韩国01|流媒体|V1|GZ, server: zz-kr-1.wandou888.win, port: 21651, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇰🇷 V1-韩国01 中继A | x1.5, server: in01.my1188.org, port: 63004, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-kr01.covid19.rip}}, udp: true}
+  - {name: 🇰🇷 V1-韩国01 中继B | x1.5, server: in02.my1188.org, port: 63004, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-kr01.covid19.rip}}, udp: true}
+  - {name: 🇰🇷 V1-韩国01 中继C | x1.5, server: in03.my1188.org, port: 63004, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-kr01.covid19.rip}}, udp: true}
+  - {name: 🇰🇷 V1-韩国01 中继D | x1.5, server: in04.my1188.org, port: 63004, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-kr01.covid19.rip}}, udp: true}
+  - {name: 🇰🇷 V2-韩国01 中继E | x1.5, server: in05.my1188.org, port: 63004, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-kr01.covid19.rip}}, udp: true}
+  - {name: 🇰🇷 V3-IEPL专线 韩国02 | 8x, server: iplc01.my1188.org, port: 3093, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 vpnhat-KR, server: 120.197.130.126, port: 13102, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 vpnhat-KR 2, server: 120.197.130.126, port: 13101, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 vpnpool-KR, server: 139.227.78.64, port: 17102, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 vpnpool-KR 2, server: 139.227.78.64, port: 17101, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 中转|韩国01, server: aflzz-kr.meiquankongjian.com, port: 42151, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 中转|韩国02, server: aflzz-kr.meiquankongjian.com, port: 42152, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 中转|韩国03, server: aflzz-kr.meiquankongjian.com, port: 42153, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 韩国 IEPL 01 | Local, server: sz-hk.iepl.0000.origincloud.best, port: 1811, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇰🇷 韩国A, server: lemon11.1257813.xyz, port: 25183, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon11.1257813.xyz}}, udp: true}
+  - {name: 🇰🇷 韩国B, server: lemon12.1257813.xyz, port: 32029, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon12.1257813.xyz}}, udp: true}
+  - {name: 🇰🇷 韩国直连A CDN 速度随缘 0.3x, server: kr-direct-cdn.node001.xyz, port: 2086, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: kr-direct-cdn.node001.xyz}}, udp: true}
+  - {name: 🇲🇾 MY Pro 01 | Local, server: my.relay.1wqe.origincloud.best, port: 5891, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇲🇾 MY Pro 02 | Local, server: my.relay.2ewr.origincloud.best, port: 5892, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇲🇾 V3-IEPL专线 马来西亚01 | 8x 原生IP, server: iplc01.my1188.org, port: 3063, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇲🇾 V3-IEPL专线 马来西亚02 | 8x 原生IP, server: iplc01.my1188.org, port: 3193, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇲🇾 马来西亚 IEPL 01 | Local, server: sz-hk.iepl.0000.origincloud.best, port: 1891, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇳🇱 Anycast|荷兰, server: aflcn.meiquankongjian.com, port: 51523, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇳🇱 V2-荷兰01 CDN 中继 | 1.3x, server: in05.my1188.org, port: 63062, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: nl01-cdn.tencent.best}}, udp: true}
+  - {name: 🇵🇰 V3-IEPL专线 巴基斯坦 冷门 限速20m | 15x, server: iplc01.my1188.org, port: 3133, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇵🇱 V2-波兰01 CDN 中继 | x1.5, server: in05.my1188.org, port: 63077, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pl01-cdn.myn0des.com}}, udp: true}
+  - {name: 🇷🇺 Anycast|俄罗斯, server: aflcn.meiquankongjian.com, port: 51525, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇷🇺 K俄罗斯01|流媒体|V1|GZ, server: zz-ru-1.wandou888.win, port: 21664, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇷🇺 RU 1｜openit.ml, server: t03.ssrsub.com, port: 18443, type: trojan, password: 57229afb-d4e4-426e-bfdc-18fc1f3267fd, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 RU 2｜openit.ml, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 RU 3｜openit.ml, server: hkbgp2.jiantian.xyz, port: 34532, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 RU 4｜openit.ml, server: sg1.crunode.top, port: 443, type: trojan, password: af87b819-4880-38f6-91ba-87a3393af9a1, sni: sg1.crunode.top, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 V1-俄罗斯01 中继A | x1.2, server: in01.my1188.org, port: 63071, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-ru01.myn1des.com}}, udp: true}
+  - {name: 🇷🇺 V1-俄罗斯01 中继B | x1.2, server: in02.my1188.org, port: 63071, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-ru01.myn1des.com}}, udp: true}
+  - {name: 🇷🇺 V1-俄罗斯01 中继C | x1.2, server: in03.my1188.org, port: 63071, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-ru01.myn1des.com}}, udp: true}
+  - {name: 🇷🇺 V1-俄罗斯01 中继D | x1.2, server: in04.my1188.org, port: 63071, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-ru01.myn1des.com}}, udp: true}
+  - {name: 🇷🇺 V2-俄罗斯01 中继E | x1.2, server: in05.my1188.org, port: 63071, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-ru01.myn1des.com}}, udp: true}
+  - {name: 🇷🇺 V3-IEPL专线 俄罗斯02 | 8x, server: iplc01.my1188.org, port: 3103, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 vpnpool-RU, server: 139.227.78.64, port: 17110, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 Anycast|新加坡, server: aflcn.meiquankongjian.com, port: 51511, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇸🇬 F新加坡01|Youtube|V1|GZ, server: zz-sg-1.wandou888.win, port: 21631, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇸🇬 F新加坡02|Netflix|V1|GZ, server: zz-sg-2.wandou888.win, port: 21632, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇸🇬 G新加坡01|流媒体|V2|GZ, server: zz-sg-v1.wandou888.win, port: 21731, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇸🇬 G新加坡02|Netflix|V2|GZ, server: zz-sg-v2.wandou888.win, port: 21732, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇸🇬 SG 1｜openit.ml, server: sg.sharecentrepro.tk, port: 443, type: trojan, password: sharecentre, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG 2｜openit.ml, server: w12.udpgw.com, port: 443, type: trojan, password: 08964210-e7b8-11ec-95aa-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG 3｜openit.ml, server: s2.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG 4｜openit.ml, server: w13.udpgw.com, port: 443, type: trojan, password: 16877c70-e7b8-11ec-99f2-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG 5｜openit.ml, server: trojan1.udpgw.com, port: 443, type: trojan, password: affae2e0-e84b-11ec-b09f-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG PRO 01, server: sg.relay.1qwe.origincloud.best, port: 5501, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇸🇬 SG PRO 02 | Media, server: sg.relay.2asd.origincloud.best, port: 5502, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇸🇬 SG PRO 51 | Media, server: sg.relay.551q.origincloud.best, port: 5551, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|01, server: nm1-2.getnjnd.com, port: 6500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|02, server: nm1-2.getnjnd.com, port: 6501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|03, server: nm1-2.getnjnd.com, port: 6502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|04, server: nm1-2.getnjnd.com, port: 6503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|05, server: bs2-2.getnjnd.com, port: 6500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|06, server: bs2-2.getnjnd.com, port: 6501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|07, server: bs2-2.getnjnd.com, port: 6502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 Standard|广新|IEPL|08, server: bs2-2.getnjnd.com, port: 6503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇸🇬 V3-IEPL专线 新加坡03 | 8x, server: iplc01.my1188.org, port: 3043, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 V3-IEPL专线 新加坡05 | 8x 原生IP, server: iplc01.my1188.org, port: 3053, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 iplc|广新-原生01|1.5x, server: afliplc.getxlx.com, port: 59933, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 iplc|广新-原生02|1.5x, server: afliplc.getxlx.com, port: 59934, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 iplc|广新-原生03|1.5x, server: afliplc.getxlx.com, port: 59935, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 iplc|广新01|1.5x, server: afliplc.getxlx.com, port: 59931, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 iplc|广新02|1.5x, server: afliplc.getxlx.com, port: 59932, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnhat-SG, server: 120.197.130.126, port: 13007, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnhat-SG 2, server: 120.197.130.126, port: 13006, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnhat-SG 3, server: 36.139.115.52, port: 11208, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnhat-SG 4, server: 36.139.115.52, port: 11207, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnhat-SG-iepl, server: 120.233.7.221, port: 32005, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnpool-SG, server: 139.227.78.64, port: 17010, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 vpnpool-SG 2, server: 139.227.78.64, port: 17009, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 中转|新加坡01, server: aflzz-sg.meiquankongjian.com, port: 42131, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 中转|新加坡02, server: aflzz-sg.meiquankongjian.com, port: 42132, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 中转|新加坡03, server: aflzz-sg.meiquankongjian.com, port: 42133, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 动态BGP IPLC|新加坡01(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58521, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 动态BGP IPLC|新加坡02(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58522, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 动态BGP IPLC|新加坡03(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58523, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 01 | 广新 IEPL, server: 8749cc33-9a1d-4fd2-8ba5-2087e2a9a053.59f4d1bf-0d7c-4066-9bd4-ea5c50728178.a5dc4594-db25-4cad-bd98-951d8682e2fe.yiyuan.cyou, port: 10631, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 02 | 广新 IEPL, server: 8749cc33-9a1d-4fd2-8ba5-2087e2a9a053.59f4d1bf-0d7c-4066-9bd4-ea5c50728178.a5dc4594-db25-4cad-bd98-951d8682e2fe.yiyuan.cyou, port: 10632, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 IEPL 01, server: gz-hk.iepl.0000.origincloud.best, port: 1501, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇸🇬 新加坡 IEPL 02 | Media, server: gz-hk.iepl.0000.origincloud.best, port: 1502, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇸🇬 新加坡 IEPL 51 | Media, server: sz-hk.iepl.0000.origincloud.best, port: 1551, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇸🇬 新加坡A, server: lemon05.1257813.xyz, port: 25452, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon05.1257813.xyz}}, udp: true}
+  - {name: 🇸🇬 新加坡B, server: lemon06.1257813.xyz, port: 31102, type: vmess, uuid: c71e3fe4-8d0b-392a-99f1-1d609b582807, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /img, headers: {Host: lemon06.1257813.xyz}}, udp: true}
+  - {name: 🇸🇬 新加坡misaka-01, server: sg1.keaiyun.lol, port: 35711, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: sg1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡misaka-02, server: sg1.keaiyun.lol, port: 35712, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: sg1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡misaka-03, server: sg1.keaiyun.lol, port: 35713, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: sg1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 无法使用请刷新订阅，邀请60%返利, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10721, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 福利|新加坡|0.1x|限速10Mbps, server: aflzzul.meiquankongjian.com, port: 51515, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflzzul.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇹🇭 Anycast|泰国, server: aflcn.meiquankongjian.com, port: 51527, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇹🇷 Anycast|土耳其, server: aflcn.meiquankongjian.com, port: 51531, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇹🇷 V2-土耳其01 中继A | 2x, server: in01.my1188.org, port: 63028, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-tr01.covid19.rip}}, udp: true}
+  - {name: 🇹🇷 V2-土耳其01 中继B | 2x, server: in02.my1188.org, port: 63028, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-tr01.covid19.rip}}, udp: true}
+  - {name: 🇹🇷 V2-土耳其01 中继C | 2x, server: in03.my1188.org, port: 63028, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-tr01.covid19.rip}}, udp: true}
+  - {name: 🇹🇷 V2-土耳其01 中继D | 2x, server: in04.my1188.org, port: 63028, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-tr01.covid19.rip}}, udp: true}
+  - {name: 🇹🇷 V2-土耳其01 中继E | 2x, server: in05.my1188.org, port: 63028, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-tr01.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 Anycast|美国, server: aflcn.meiquankongjian.com, port: 51513, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflcn.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国01|Netflix|洛杉矶|V1|GZ, server: zz-us-1.wandou888.win, port: 21641, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国01|登录|网页|洛杉矶|10x|V2|GZ, server: zz-us-v1.wandou888.win, port: 21741, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国02|Disney|西雅图|V2|GZ, server: zz-us-v2.wandou888.win, port: 21742, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国02|Tiktok|洛杉矶|V1|GZ, server: zz-us-2.wandou888.win, port: 21642, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国03|Tik Tok旧金山|V2|GZ, server: zz-us-v3.wandou888.win, port: 21743, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国03|芝加哥|V1|GZ, server: zz-us-3.wandou888.win, port: 21643, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 I美国04|Tik Tok|犹他州|V1|GZ, server: zz-us-4.wandou888.win, port: 21644, type: vmess, uuid: 03f44512-40ed-3a62-8f33-57921a1838e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls, headers: {Host: "%7B%22Host%22:%22localhost%22%7D"}}, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|01, server: nm1-2.getnjnd.com, port: 5500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|02, server: nm1-2.getnjnd.com, port: 5501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|03, server: nm1-2.getnjnd.com, port: 5502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|04, server: nm1-2.getnjnd.com, port: 5503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|05, server: bs2-2.getnjnd.com, port: 5500, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|06, server: bs2-2.getnjnd.com, port: 5501, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|07, server: bs2-2.getnjnd.com, port: 5502, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 Standard|广美|IEPL|08, server: bs2-2.getnjnd.com, port: 5503, type: ssr, cipher: chacha20-ietf, password: renzhecloud, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 152006:OeRRkC, obfs-param: 23923152006.microsoft.com, udp: true}
+  - {name: 🇺🇸 US 10｜openit.ml, server: tj-sg02.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 11｜openit.ml, server: s1.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 12｜openit.ml, server: azhk1.keaiyun.lol, port: 57411, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: azhk1.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 13｜openit.ml, server: kr05.wangxd.life, port: 3052, type: trojan, password: 3a2c0c6c-9ee5-c05f-c951-fcd73831983e, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 14｜openit.ml, server: jgwhdlb3.gaox.ml, port: 443, type: trojan, password: 006baa3f-4bc3-4915-b60d-c8c5dae11a11, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 15｜openit.ml, server: 198.200.51.219, port: 26969, type: trojan, password: 151dada5-c12e-4eb3-940e-d93f365f8a4a, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 16｜openit.ml, server: usfree2.jiantian.xyz, port: 32462, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: usfree2.jiantian.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 17｜openit.ml, server: AZQT001.xiba1.xyz, port: 20741, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 18｜openit.ml, server: AZQT001.xiba1.xyz, port: 20733, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 19｜openit.ml, server: AZQT001.xiba1.xyz, port: 20735, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 1｜openit.ml, server: lsj02.wangxd.life, port: 3052, type: trojan, password: 3a2c0c6c-9ee5-c05f-c951-fcd73831983e, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 20｜openit.ml, server: AZQT001.xiba1.xyz, port: 20729, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 21｜openit.ml, server: AZQT001.xiba1.xyz, port: 20736, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 22｜openit.ml, server: AZQT001.xiba1.xyz, port: 20734, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 23｜openit.ml, server: AZQT001.xiba1.xyz, port: 20728, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 24｜openit.ml, server: AZQT001.xiba1.xyz, port: 20740, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 25｜openit.ml, server: ss2.2046.gq, port: 4443, type: trojan, password: 794871c6-022b-4498-b816-296e8a581d86, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 26｜openit.ml, server: rooms.starspace.link, port: 443, type: trojan, password: 5HfENR8nt2PR8reH, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 27｜openit.ml, server: storage.starspace.link, port: 443, type: trojan, password: W8gVbKNAZlFzgGPn, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 28｜openit.ml, server: wireless.starspace.link, port: 443, type: trojan, password: 5LN8SGTqxk336nFg, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 29｜openit.ml, server: azqt001.xiba1.xyz, port: 20742, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 2｜openit.ml, server: s3.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 30｜openit.ml, server: azqt001.xiba1.xyz, port: 20732, type: trojan, password: 64207627-dea7-38c0-b587-089bc1d32801, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 31｜openit.ml, server: azqt001.xiba1.xyz, port: 20730, type: trojan, password: 64207627-dea7-38c0-b587-089bc1d32801, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 32｜openit.ml, server: hj001.xiba1.xyz, port: 20762, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, sni: hj001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 33｜openit.ml, server: azqt001.xiba1.xyz, port: 20746, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 34｜openit.ml, server: azqt001.xiba1.xyz, port: 20748, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 35｜openit.ml, server: azqt001.xiba1.xyz, port: 20747, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 36｜openit.ml, server: azqt001.xiba1.xyz, port: 20745, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 37｜openit.ml, server: azqt001.xiba1.xyz, port: 20744, type: trojan, password: 5b104b19-679c-30a4-8e5a-cf6f0be5328c, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 3｜openit.ml, server: fhcarm1.gaox.ml, port: 443, type: trojan, password: 05742120-ce23-4cc8-88f5-6d221ce45bf4, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 4｜openit.ml, server: fhcarm2.gaox.ml, port: 443, type: trojan, password: f39bd244-f5fe-415c-8b98-a1e5250bf178, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 5｜openit.ml, server: cd.rutracker-cn.com, port: 443, type: trojan, password: ukMzuFSmIXDvgW0h, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 6｜openit.ml, server: tj-us02.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 7｜openit.ml, server: tj-us01.yiyodns.xyz, port: 443, type: trojan, password: 7dafe71e-2be6-302f-bdfc-e6319a3299bc, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 8｜openit.ml, server: silicon.starspace.link, port: 443, type: trojan, password: 4ZPDeqJ6g766UKDJ, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US 9｜openit.ml, server: jgwdb3.gaox.ml, port: 443, type: trojan, password: 8d2d5953-d649-4034-94f2-72f2df2623da, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US PRO 01, server: us.relay.1qsc.origincloud.best, port: 5301, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 US PRO 02, server: us.relay.311q.origincloud.best, port: 5311, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 US PRO 03, server: us.relay.321q.origincloud.best, port: 5321, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 US PRO 04, server: us.relay.322w.origincloud.best, port: 5322, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 V1-美国01 中继A | 1.5x, server: in01.my1188.org, port: 63014, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-us01.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V1-美国01 中继B | 1.5x, server: in02.my1188.org, port: 63014, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-us01.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V1-美国01 中继C | 1.5x, server: in03.my1188.org, port: 63014, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-us01.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V1-美国01 中继D | 1.5x, server: in04.my1188.org, port: 63014, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-us01.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V2-美国01 中继E | 1.5x, server: in05.my1188.org, port: 63014, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mg, headers: {Host: mugua-us01.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V2-美国03 中继A |  1.5x, server: in01.my1188.org, port: 63069, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-us03.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V2-美国03 中继B |  1.5x, server: in02.my1188.org, port: 63069, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-us03.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V2-美国03 中继C | 1.5x, server: in03.my1188.org, port: 63069, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-us03.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V2-美国03 中继D | 1.5x, server: in04.my1188.org, port: 63069, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-us03.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V2-美国03 中继E |  1.5x, server: in05.my1188.org, port: 63069, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mugua-us03.covid19.rip}}, udp: true}
+  - {name: 🇺🇸 V3-IEPL专线 美国02 | 8x, server: iplc01.my1188.org, port: 3033, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 iplc|广美-原生01|1.5x, server: afliplc.getxlx.com, port: 59971, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 iplc|广美-原生02|1.5x, server: afliplc.getxlx.com, port: 59972, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 iplc|广美-原生03|1.5x, server: afliplc.getxlx.com, port: 59973, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 iplc|广美-原生04|1.5x, server: afliplc.getxlx.com, port: 59974, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 iplc|广美-原生05|1.5x, server: afliplc.getxlx.com, port: 59975, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US, server: 120.197.130.126, port: 13203, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US 2, server: 120.197.130.126, port: 13202, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US 3, server: 120.197.130.126, port: 13201, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US 4, server: 36.139.115.52, port: 11403, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US 5, server: 36.139.115.52, port: 11402, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US 6, server: 36.139.115.52, port: 11401, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US-iepl, server: 120.233.7.221, port: 18007, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US-iepl 2, server: 120.233.7.221, port: 18006, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnhat-US-iepl 3, server: 120.233.7.221, port: 32006, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnpool-US, server: 139.227.78.64, port: 17005, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 vpnpool-US 2, server: 139.227.78.64, port: 17004, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 中转|美国01, server: aflzz-us.meiquankongjian.com, port: 42161, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 中转|美国02, server: aflzz-us.meiquankongjian.com, port: 42162, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 中转|美国03, server: aflzz-us.meiquankongjian.com, port: 42163, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 中转|美国04, server: aflzz-us.meiquankongjian.com, port: 42164, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 中转|美国05, server: aflzz-us.meiquankongjian.com, port: 42165, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 动态BGP IPLC|美国01(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58551, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 动态BGP IPLC|美国02(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58552, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 动态BGP IPLC|美国03(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58553, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 动态BGP IPLC|美国04(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58554, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 动态BGP IPLC|美国05(原生)|3x, server: flbgpi.meiquankongjian.com, port: 58555, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 福利|美国|0.1x|限速10Mbps, server: aflzzul.meiquankongjian.com, port: 52513, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflzzul.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🇺🇸 美国 01 | 直连, server: e8e4ad34-301f-4b6a-929c-c02a7bdc7859.62dd6326-6357-4c87-94b7-06e277adea7c.c3b3b423-4c53-4570-bff7-462da591030b.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 02 | 直连, server: e8e4ad34-301f-4b6a-929c-c02a7bdc7859.62dd6326-6357-4c87-94b7-06e277adea7c.c3b3b423-4c53-4570-bff7-462da591030b.yiyuan.cyou, port: 443, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 IEPL 01, server: gz-hk.iepl.0000.origincloud.best, port: 1301, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 美国 IEPL 02, server: gz-hk.iepl.0000.origincloud.best, port: 1311, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 美国 IEPL 03, server: gz-hk.iepl.0000.origincloud.best, port: 1321, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 美国 IEPL 04, server: gz-hk.iepl.0000.origincloud.best, port: 1322, type: ssr, cipher: rc4-md5, password: OriginCloud, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 42665:zMekRLGXFF4iiS3Y, obfs-param: appleid.apple.com/b7f8742665, udp: true}
+  - {name: 🇺🇸 美国大陆优化4837-01, server: cnus.keaiyun.lol, port: 32921, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: cnus.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国大陆优化4837-02, server: cnus.keaiyun.lol, port: 32922, type: trojan, password: 60c42daa-dd98-4334-9be1-e0133da443f4, sni: cnus.keaiyun.lol, skip-cert-verify: true, udp: true}
+  - {name: 🏳️‍🌈 下载专用|0.8x|支持大流量, server: aflzzdl.meiquankongjian.com, port: 51516, type: vmess, uuid: f8b854a3-c28c-3859-8a00-4b843b3e14a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: "%7B%22Host%22:%22aflzzdl.meiquankongjian.com%22%7D"}}, udp: true}
+  - {name: 🏳️‍🌈 加群 @yyjc_group 签到送流量, server: 6a702992-f6d8-4a77-bff8-51cb4f00a52e.d51de86c-54b4-418f-81e7-49ba2065d7d1.0e85557e-827c-42c7-b6c5-5c195d90e148.yiyuan.cyou, port: 10721, type: trojan, password: e76b06ef-6903-49e5-b212-23eff4f3632e, sni: gamecdn.cc, skip-cert-verify: true, udp: true}
+proxy-groups:
+  - name: 🌐 Proxy
+    type: select
+    proxies:
+      - DIRECT
+      - AA↑↑以上线路和我不可用↑↑
+      - AZHK白嫖节点丨0.1x
+      - CZ 1｜openit.ml
+      - CZ 2｜openit.ml
+      - UA 1｜openit.ml
+      - UA 2｜openit.ml
+      - UA 3｜openit.ml
+      - UA 4｜openit.ml
+      - Z网址 origincloud01.xyz | 这不是节点请切换其他
+      - vpnpool-BR
+      - vpnpool-TR
+      - 售后群:659112510
+      - 网易云音乐|解锁节点1 - Windows, Android
+      - 网易云音乐|解锁节点2 - macOS, iOS, Linux
+      - 美西A
+      - 美西B
+      - 🇦🇷 Anycast|阿根廷
+      - 🇦🇷 V2-阿根廷01 CDN 中继 龟速2x
+      - 🇦🇺 AU 1｜openit.ml
+      - 🇦🇺 Anycast|澳大利亚
+      - 🇦🇺 V3-IEPL专线 澳洲01 | 7x
+      - 🇦🇺 澳大利亚 IEPL 01
+      - 🇧🇷 Anycast|巴西
+      - 🇧🇷 V2-巴西01 中继A
+      - 🇧🇷 V2-巴西01 中继B
+      - 🇧🇷 V2-巴西01 中继C
+      - 🇧🇷 V2-巴西01 中继D
+      - 🇧🇷 V2-巴西01 中继E
+      - 🇨🇦 Anycast|加拿大
+      - 🇨🇦 中转|加拿大01
+      - 🇨🇳 Anycast|台湾
+      - 🇨🇳 B台湾01|Netflix|V2|GZ
+      - 🇨🇳 B台湾01|Twitter|V1|GZ
+      - 🇨🇳 B台湾02|流媒体|V1|GZ
+      - 🇨🇳 B台湾03|流媒体|V1|GZ
+      - 🇨🇳 B台湾04|Youtube|V1|GZ
+      - 🇨🇳 CN 1｜openit.ml
+      - 🇨🇳 CN 2｜openit.ml
+      - 🇨🇳 CN 3｜openit.ml
+      - 🇨🇳 CN 4｜openit.ml
+      - 🇨🇳 CN 5｜openit.ml
+      - 🇨🇳 CN 6｜openit.ml
+      - 🇨🇳 EXTM3U-台北Hinet-dip
+      - 🇨🇳 EXTM3U-台北Hinet-dip 2
+      - 🇨🇳 EXTM3U-花莲Hinet-dip
+      - 🇨🇳 EXTM3U-高雄Hinet-dip
+      - 🇨🇳 Standard|广台|IEPL|01
+      - 🇨🇳 Standard|广台|IEPL|02
+      - 🇨🇳 Standard|广台|IEPL|03
+      - 🇨🇳 Standard|广台|IEPL|04
+      - 🇨🇳 Standard|广台|IEPL|05
+      - 🇨🇳 Standard|广台|IEPL|06
+      - 🇨🇳 TW PRO 01 | Media
+      - 🇨🇳 TW PRO 02 | Media
+      - 🇨🇳 TW PRO 03 | Media
+      - 🇨🇳 TW PRO 04 | Media
+      - 🇨🇳 V1-台湾 多台负载均衡 中继A 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继B 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继C 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继D 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继F 1.5x
+      - 🇨🇳 V1-台湾99 Hinet直连 速度随缘 0.5x
+      - "🇨🇳 V1-新加坡 多台负载均衡 中继A 1.5x\t"
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继B 1.5x
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继C 1.5x
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继D 1.5x
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继F 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继A 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继B 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继C 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继D 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继F 1.5x
+      - 🇨🇳 V2-台湾 多台负载均衡 中继E 1.5x
+      - 🇨🇳 V2-日本 多台负载均衡 中继E 1.5x
+      - 🇨🇳 V3-IEPL专线 台湾03 Hinet | 8x 原生IP
+      - 🇨🇳 iplc|广台-原生01|1.5x
+      - 🇨🇳 iplc|广台-原生02|1.5x
+      - 🇨🇳 iplc|广台-原生03|1.5x
+      - 🇨🇳 iplc|广台-原生04|1.5x
+      - 🇨🇳 iplc|广台-原生05|1.5x
+      - 🇨🇳 iplc|广台-原生06|1.5x
+      - 🇨🇳 iplc|广台-原生07|1.5x
+      - 🇨🇳 iplc|广台-原生08|1.5x
+      - 🇨🇳 iplc|广台-原生09|1.5x
+      - 🇨🇳 iplc|广台-原生10|1.5x
+      - 🇨🇳 vpnhat-台湾
+      - 🇨🇳 vpnhat-台湾 2
+      - 🇨🇳 vpnhat-台湾 3
+      - 🇨🇳 vpnhat-台湾 4
+      - 🇨🇳 vpnhat-台湾 5
+      - 🇨🇳 vpnhat-台湾 6
+      - 🇨🇳 vpnhat-台湾 7
+      - 🇨🇳 vpnhat-台湾 8
+      - 🇨🇳 vpnhat-台湾-iepl
+      - 🇨🇳 vpnhat-台湾-iepl 2
+      - 🇨🇳 vpnhat-台湾-iepl 3
+      - 🇨🇳 vpnpool-台湾
+      - 🇨🇳 中转|台湾-原生01
+      - 🇨🇳 中转|台湾-原生02
+      - 🇨🇳 中转|台湾-原生03
+      - 🇨🇳 中转|台湾-原生04
+      - 🇨🇳 中转|台湾-原生05
+      - 🇨🇳 中转|台湾-原生06
+      - 🇨🇳 中转|台湾-原生07
+      - 🇨🇳 中转|台湾-原生08
+      - 🇨🇳 中转|台湾-原生09
+      - 🇨🇳 中转|台湾-原生10
+      - 🇨🇳 动态BGP IPLC|台湾01(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾02(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾03(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾04(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾05(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾06(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾07(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾08(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾09(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾10(原生)|3x
+      - 🇨🇳 台湾 IEPL 01 | Media
+      - 🇨🇳 台湾-01
+      - 🇨🇳 台湾-02
+      - 🇩🇪 Anycast|德国
+      - 🇩🇪 DE 1｜openit.ml
+      - 🇩🇪 K德国01|流媒体|V1|GZ
+      - 🇩🇪 V1-德国01 CDN 中继 1.5x
+      - 🇩🇪 V3-IEPL专线 德国01 7x
+      - 🇫🇷 Anycast|法国
+      - 🇫🇷 法国直连A CDN 速度随缘 0.3x
+      - 🇬🇧 Anycast|英国
+      - 🇬🇧 GB 1｜openit.ml
+      - 🇬🇧 GB 2｜openit.ml
+      - 🇬🇧 GB 3｜openit.ml
+      - 🇬🇧 GB 4｜openit.ml
+      - 🇬🇧 GB 5｜openit.ml
+      - 🇬🇧 K英国01|流媒体|V2|GZ
+      - 🇬🇧 V1-英国01 CDN 中继 1.5x
+      - 🇬🇧 V3-IEPL专线 英国01 | 8x
+      - 🇬🇧 vpnpool-GB
+      - 🇬🇧 vpnpool-GB 2
+      - 🇬🇧 英国 IEPL 01 | Media
+      - 🇭🇰 Anycast|香港
+      - 🇭🇰 A香港01|Netflix|V1|GZ
+      - 🇭🇰 A香港02|Netflix|V1|GZ
+      - 🇭🇰 A香港03|流媒体|V1|GZ
+      - 🇭🇰 A香港04|网页|V1|GZ
+      - 🇭🇰 A香港05|Twitter|V1|GZ
+      - 🇭🇰 EXTM3U-香港HKBN-dip
+      - 🇭🇰 EXTM3U-香港HKT
+      - 🇭🇰 EXTM3U-香港HKT 2
+      - 🇭🇰 EXTM3U-香港HKT-dip
+      - 🇭🇰 HK 10｜openit.ml
+      - 🇭🇰 HK 11｜openit.ml
+      - 🇭🇰 HK 12｜openit.ml
+      - 🇭🇰 HK 13｜openit.ml
+      - 🇭🇰 HK 14｜openit.ml
+      - 🇭🇰 HK 15｜openit.ml
+      - 🇭🇰 HK 16｜openit.ml
+      - 🇭🇰 HK 17｜openit.ml
+      - 🇭🇰 HK 18｜openit.ml
+      - 🇭🇰 HK 19｜openit.ml
+      - 🇭🇰 HK 1｜openit.ml
+      - 🇭🇰 HK 20｜openit.ml
+      - 🇭🇰 HK 21｜openit.ml
+      - 🇭🇰 HK 2｜openit.ml
+      - 🇭🇰 HK 3｜openit.ml
+      - 🇭🇰 HK 4｜openit.ml
+      - 🇭🇰 HK 5｜openit.ml
+      - 🇭🇰 HK 6｜openit.ml
+      - 🇭🇰 HK 7｜openit.ml
+      - 🇭🇰 HK 8｜openit.ml
+      - 🇭🇰 HK 9｜openit.ml
+      - 🇭🇰 HK PRO 11
+      - 🇭🇰 HK PRO 12
+      - 🇭🇰 HK PRO 13
+      - 🇭🇰 HK PRO 21 | Local
+      - 🇭🇰 HK PRO 22 | Local
+      - 🇭🇰 HK PRO 23 | Local
+      - 🇭🇰 HK PRO 31
+      - 🇭🇰 HK PRO 32
+      - 🇭🇰 HK PRO 51
+      - 🇭🇰 Standard|广港|IEPL|01
+      - 🇭🇰 Standard|广港|IEPL|02
+      - 🇭🇰 Standard|广港|IEPL|03
+      - 🇭🇰 Standard|广港|IEPL|04
+      - 🇭🇰 Standard|广港|IEPL|05
+      - 🇭🇰 Standard|广港|IEPL|06
+      - 🇭🇰 Standard|广港|IEPL|07
+      - 🇭🇰 Standard|广港|IEPL|08
+      - 🇭🇰 Standard|广港|IEPL|09
+      - 🇭🇰 Standard|广港|IEPL|10
+      - 🇭🇰 Standard|广港|IEPL|11
+      - 🇭🇰 Standard|广港|IEPL|12
+      - 🇭🇰 Standard|广港|IEPL|13
+      - 🇭🇰 Standard|广港|IEPL|14
+      - 🇭🇰 Standard|广港|IEPL|15
+      - 🇭🇰 Standard|广港|IEPL|16
+      - 🇭🇰 Standard|广港|IEPL|17
+      - 🇭🇰 Standard|广港|IEPL|18
+      - 🇭🇰 Standard|广港|IEPL|19
+      - 🇭🇰 Standard|广港|IEPL|20
+      - 🇭🇰 V1-香港 多台负载均衡 中继A | 1.5x
+      - 🇭🇰 V1-香港 多台负载均衡 中继B | 1.5x
+      - 🇭🇰 V1-香港 多台负载均衡 中继C | 1.5x
+      - 🇭🇰 V1-香港 多台负载均衡 中继D | 1.5x
+      - 🇭🇰 V1-香港HKT02 CDN 中继 2x
+      - 🇭🇰 V1-香港HKT03 CDN 中继 2x
+      - 🇭🇰 V2-香港 多台负载均衡 中继E | 1.5x
+      - 🇭🇰 V3-IEPL专线 香港FDC01 | 7x
+      - 🇭🇰 V3-IEPL专线 香港HGC01 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HGC02 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HGC03 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HKG01 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HKT01 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HKT04 | 8x 原生IP
+      - 🇭🇰 iplc|广港-原生01|1.5x
+      - 🇭🇰 iplc|广港-原生02|1.5x
+      - 🇭🇰 iplc|广港-原生03|1.5x
+      - 🇭🇰 iplc|广港-原生04|1.5x
+      - 🇭🇰 iplc|广港-原生05|1.5x
+      - 🇭🇰 iplc|广港01|1.5x
+      - 🇭🇰 iplc|广港02|1.5x
+      - 🇭🇰 iplc|广港03|1.5x
+      - 🇭🇰 iplc|广港04|1.5x
+      - 🇭🇰 iplc|广港05|1.5x
+      - 🇭🇰 vpnhat-香港
+      - 🇭🇰 vpnhat-香港 2
+      - 🇭🇰 vpnhat-香港 3
+      - 🇭🇰 vpnhat-香港 4
+      - 🇭🇰 vpnhat-香港 5
+      - 🇭🇰 vpnhat-香港 6
+      - 🇭🇰 vpnhat-香港 7
+      - 🇭🇰 vpnhat-香港 8
+      - 🇭🇰 vpnhat-香港 9
+      - 🇭🇰 vpnhat-香港-iepl
+      - 🇭🇰 vpnhat-香港-iepl 2
+      - 🇭🇰 vpnhat-香港-iepl 3
+      - 🇭🇰 vpnhat-香港-iepl 4
+      - 🇭🇰 vpnhat-香港-iepl 5
+      - 🇭🇰 vpnpool-香港
+      - 🇭🇰 vpnpool-香港 2
+      - 🇭🇰 vpnpool-香港 3
+      - 🇭🇰 中国香港A
+      - 🇭🇰 中国香港B
+      - 🇭🇰 中转|香港-原生01
+      - 🇭🇰 中转|香港-原生02
+      - 🇭🇰 中转|香港-原生03
+      - 🇭🇰 中转|香港-原生04
+      - 🇭🇰 中转|香港-原生05
+      - 🇭🇰 中转|香港01
+      - 🇭🇰 中转|香港02
+      - 🇭🇰 中转|香港03
+      - 🇭🇰 中转|香港04
+      - 🇭🇰 中转|香港05
+      - 🇭🇰 动态BGP IPLC|香港01(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港01|3x
+      - 🇭🇰 动态BGP IPLC|香港02(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港02|3x
+      - 🇭🇰 动态BGP IPLC|香港03(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港03|3x
+      - 🇭🇰 动态BGP IPLC|香港04(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港04|3x
+      - 🇭🇰 动态BGP IPLC|香港05(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港05|3x
+      - 🇭🇰 福利|香港01|0.1x|限速10Mbps
+      - 🇭🇰 香港 01 | 广港 IEPL
+      - 🇭🇰 香港 01 | 直连
+      - 🇭🇰 香港 02 | 广港 IEPL
+      - 🇭🇰 香港 02 | 直连
+      - 🇭🇰 香港 03 | 广港 IEPL
+      - 🇭🇰 香港 04 | 广港 IEPL
+      - 🇭🇰 香港 05 | 广港 IEPL
+      - 🇭🇰 香港 IEPL 11
+      - 🇭🇰 香港 IEPL 12
+      - 🇭🇰 香港 IEPL 21 | Full Local
+      - 🇭🇰 香港 IEPL 51
+      - 🇭🇰 香港-深圳专线 IPLC 01 | 限速仅限游戏 | 倍率 8x
+      - 🇭🇰 香港IPLC-倍率10x
+      - 🇭🇰 香港dmit-01
+      - 🇭🇰 香港dmit-02
+      - 🇭🇰 香港misaka-01
+      - 🇭🇰 香港misaka-02
+      - 🇮🇳 Anycast|印度
+      - 🇮🇳 IN PRO 01
+      - 🇮🇳 K印度01|流媒体|V1|GZ
+      - 🇮🇳 V2-印度01 中继A | 1.5x
+      - 🇮🇳 V2-印度01 中继B | 1.5x
+      - 🇮🇳 V2-印度01 中继C | 1.5x
+      - 🇮🇳 V2-印度01 中继D | 1.5x
+      - 🇮🇳 V2-印度01 中继E | 1.5x
+      - 🇯🇵 Anycast|日本
+      - 🇯🇵 G日本01|Netflix|V1|GZ
+      - 🇯🇵 G日本02|流媒体|V1|GZ
+      - 🇯🇵 G日本03|Youtube|V1|GZ
+      - 🇯🇵 G日本04|Abmate|V1|GZ
+      - 🇯🇵 JP PRO 01
+      - 🇯🇵 JP PRO 02
+      - 🇯🇵 JP PRO 21 | Media
+      - 🇯🇵 JP PRO 31 | Local
+      - 🇯🇵 Standard|广日|IEPL|01
+      - 🇯🇵 Standard|广日|IEPL|02
+      - 🇯🇵 Standard|广日|IEPL|03
+      - 🇯🇵 Standard|广日|IEPL|04
+      - 🇯🇵 Standard|广日|IEPL|05
+      - 🇯🇵 Standard|广日|IEPL|06
+      - 🇯🇵 Standard|广日|IEPL|07
+      - 🇯🇵 Standard|广日|IEPL|08
+      - 🇯🇵 V2-日本03 CDN 中继 1.5x
+      - 🇯🇵 V3-IEPL专线 日本04 | 8x
+      - 🇯🇵 iplc|广日-原生01|1.5x
+      - 🇯🇵 iplc|广日-原生02|1.5x
+      - 🇯🇵 iplc|广日-原生03|1.5x
+      - 🇯🇵 iplc|广日-原生04|1.5x
+      - 🇯🇵 iplc|广日-原生05|1.5x
+      - 🇯🇵 iplc|广日01|1.5x
+      - 🇯🇵 iplc|广日02|1.5x
+      - 🇯🇵 vpnhat-JP
+      - 🇯🇵 vpnhat-JP 2
+      - 🇯🇵 vpnhat-JP 3
+      - 🇯🇵 vpnhat-JP 4
+      - 🇯🇵 vpnhat-JP 5
+      - 🇯🇵 vpnhat-JP 6
+      - 🇯🇵 vpnhat-JP 7
+      - 🇯🇵 vpnhat-JP-iepl
+      - 🇯🇵 vpnpool-JP
+      - 🇯🇵 vpnpool-JP 2
+      - 🇯🇵 中转|日本01
+      - 🇯🇵 中转|日本02
+      - 🇯🇵 中转|日本03
+      - 🇯🇵 中转|日本04
+      - 🇯🇵 中转|日本05
+      - 🇯🇵 动态BGP IPLC|日本01(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本02(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本03(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本04(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本05(原生)|3x
+      - 🇯🇵 日本 01 | 沪日IEPL
+      - 🇯🇵 日本 01 | 直连
+      - 🇯🇵 日本 02 | 沪日IEPL
+      - 🇯🇵 日本 02 | 直连
+      - 🇯🇵 日本 03 | 沪日IEPL
+      - 🇯🇵 日本 03 | 直连
+      - 🇯🇵 日本 04 | 沪日IEPL
+      - 🇯🇵 日本 04 | 直连
+      - 🇯🇵 日本 05 | 沪日IEPL
+      - 🇯🇵 日本 IEPL 01
+      - 🇯🇵 日本 IEPL 21 | Local
+      - 🇯🇵 日本 IEPL 31 | Local
+      - 🇯🇵 日本A
+      - 🇯🇵 日本B
+      - 🇯🇵 日本misaka-01
+      - 🇯🇵 日本misaka-02
+      - "🇯🇵 日本直连A CDN 速度随缘 0.3x\t"
+      - 🇯🇵 福利|日本|0.1x|限速10Mbps
+      - 🇰🇷 Anycast|韩国
+      - 🇰🇷 H韩国01|流媒体|V1|GZ
+      - 🇰🇷 V1-韩国01 中继A | x1.5
+      - 🇰🇷 V1-韩国01 中继B | x1.5
+      - 🇰🇷 V1-韩国01 中继C | x1.5
+      - 🇰🇷 V1-韩国01 中继D | x1.5
+      - 🇰🇷 V2-韩国01 中继E | x1.5
+      - 🇰🇷 V3-IEPL专线 韩国02 | 8x
+      - 🇰🇷 vpnhat-KR
+      - 🇰🇷 vpnhat-KR 2
+      - 🇰🇷 vpnpool-KR
+      - 🇰🇷 vpnpool-KR 2
+      - 🇰🇷 中转|韩国01
+      - 🇰🇷 中转|韩国02
+      - 🇰🇷 中转|韩国03
+      - 🇰🇷 韩国 IEPL 01 | Local
+      - 🇰🇷 韩国A
+      - 🇰🇷 韩国B
+      - 🇰🇷 韩国直连A CDN 速度随缘 0.3x
+      - 🇲🇾 MY Pro 01 | Local
+      - 🇲🇾 MY Pro 02 | Local
+      - 🇲🇾 V3-IEPL专线 马来西亚01 | 8x 原生IP
+      - 🇲🇾 V3-IEPL专线 马来西亚02 | 8x 原生IP
+      - 🇲🇾 马来西亚 IEPL 01 | Local
+      - 🇳🇱 Anycast|荷兰
+      - 🇳🇱 V2-荷兰01 CDN 中继 | 1.3x
+      - 🇵🇰 V3-IEPL专线 巴基斯坦 冷门 限速20m | 15x
+      - 🇵🇱 V2-波兰01 CDN 中继 | x1.5
+      - 🇷🇺 Anycast|俄罗斯
+      - 🇷🇺 K俄罗斯01|流媒体|V1|GZ
+      - 🇷🇺 RU 1｜openit.ml
+      - 🇷🇺 RU 2｜openit.ml
+      - 🇷🇺 RU 3｜openit.ml
+      - 🇷🇺 RU 4｜openit.ml
+      - 🇷🇺 V1-俄罗斯01 中继A | x1.2
+      - 🇷🇺 V1-俄罗斯01 中继B | x1.2
+      - 🇷🇺 V1-俄罗斯01 中继C | x1.2
+      - 🇷🇺 V1-俄罗斯01 中继D | x1.2
+      - 🇷🇺 V2-俄罗斯01 中继E | x1.2
+      - 🇷🇺 V3-IEPL专线 俄罗斯02 | 8x
+      - 🇷🇺 vpnpool-RU
+      - 🇸🇬 Anycast|新加坡
+      - 🇸🇬 F新加坡01|Youtube|V1|GZ
+      - 🇸🇬 F新加坡02|Netflix|V1|GZ
+      - 🇸🇬 G新加坡01|流媒体|V2|GZ
+      - 🇸🇬 G新加坡02|Netflix|V2|GZ
+      - 🇸🇬 SG 1｜openit.ml
+      - 🇸🇬 SG 2｜openit.ml
+      - 🇸🇬 SG 3｜openit.ml
+      - 🇸🇬 SG 4｜openit.ml
+      - 🇸🇬 SG 5｜openit.ml
+      - 🇸🇬 SG PRO 01
+      - 🇸🇬 SG PRO 02 | Media
+      - 🇸🇬 SG PRO 51 | Media
+      - 🇸🇬 Standard|广新|IEPL|01
+      - 🇸🇬 Standard|广新|IEPL|02
+      - 🇸🇬 Standard|广新|IEPL|03
+      - 🇸🇬 Standard|广新|IEPL|04
+      - 🇸🇬 Standard|广新|IEPL|05
+      - 🇸🇬 Standard|广新|IEPL|06
+      - 🇸🇬 Standard|广新|IEPL|07
+      - 🇸🇬 Standard|广新|IEPL|08
+      - 🇸🇬 V3-IEPL专线 新加坡03 | 8x
+      - 🇸🇬 V3-IEPL专线 新加坡05 | 8x 原生IP
+      - 🇸🇬 iplc|广新-原生01|1.5x
+      - 🇸🇬 iplc|广新-原生02|1.5x
+      - 🇸🇬 iplc|广新-原生03|1.5x
+      - 🇸🇬 iplc|广新01|1.5x
+      - 🇸🇬 iplc|广新02|1.5x
+      - 🇸🇬 vpnhat-SG
+      - 🇸🇬 vpnhat-SG 2
+      - 🇸🇬 vpnhat-SG 3
+      - 🇸🇬 vpnhat-SG 4
+      - 🇸🇬 vpnhat-SG-iepl
+      - 🇸🇬 vpnpool-SG
+      - 🇸🇬 vpnpool-SG 2
+      - 🇸🇬 中转|新加坡01
+      - 🇸🇬 中转|新加坡02
+      - 🇸🇬 中转|新加坡03
+      - 🇸🇬 动态BGP IPLC|新加坡01(原生)|3x
+      - 🇸🇬 动态BGP IPLC|新加坡02(原生)|3x
+      - 🇸🇬 动态BGP IPLC|新加坡03(原生)|3x
+      - 🇸🇬 新加坡 01 | 广新 IEPL
+      - 🇸🇬 新加坡 02 | 广新 IEPL
+      - 🇸🇬 新加坡 IEPL 01
+      - 🇸🇬 新加坡 IEPL 02 | Media
+      - 🇸🇬 新加坡 IEPL 51 | Media
+      - 🇸🇬 新加坡A
+      - 🇸🇬 新加坡B
+      - 🇸🇬 新加坡misaka-01
+      - 🇸🇬 新加坡misaka-02
+      - 🇸🇬 新加坡misaka-03
+      - 🇸🇬 无法使用请刷新订阅，邀请60%返利
+      - 🇸🇬 福利|新加坡|0.1x|限速10Mbps
+      - 🇹🇭 Anycast|泰国
+      - 🇹🇷 Anycast|土耳其
+      - 🇹🇷 V2-土耳其01 中继A | 2x
+      - 🇹🇷 V2-土耳其01 中继B | 2x
+      - 🇹🇷 V2-土耳其01 中继C | 2x
+      - 🇹🇷 V2-土耳其01 中继D | 2x
+      - 🇹🇷 V2-土耳其01 中继E | 2x
+      - 🇺🇸 Anycast|美国
+      - 🇺🇸 I美国01|Netflix|洛杉矶|V1|GZ
+      - 🇺🇸 I美国01|登录|网页|洛杉矶|10x|V2|GZ
+      - 🇺🇸 I美国02|Disney|西雅图|V2|GZ
+      - 🇺🇸 I美国02|Tiktok|洛杉矶|V1|GZ
+      - 🇺🇸 I美国03|Tik Tok旧金山|V2|GZ
+      - 🇺🇸 I美国03|芝加哥|V1|GZ
+      - 🇺🇸 I美国04|Tik Tok|犹他州|V1|GZ
+      - 🇺🇸 Standard|广美|IEPL|01
+      - 🇺🇸 Standard|广美|IEPL|02
+      - 🇺🇸 Standard|广美|IEPL|03
+      - 🇺🇸 Standard|广美|IEPL|04
+      - 🇺🇸 Standard|广美|IEPL|05
+      - 🇺🇸 Standard|广美|IEPL|06
+      - 🇺🇸 Standard|广美|IEPL|07
+      - 🇺🇸 Standard|广美|IEPL|08
+      - 🇺🇸 US 10｜openit.ml
+      - 🇺🇸 US 11｜openit.ml
+      - 🇺🇸 US 12｜openit.ml
+      - 🇺🇸 US 13｜openit.ml
+      - 🇺🇸 US 14｜openit.ml
+      - 🇺🇸 US 15｜openit.ml
+      - 🇺🇸 US 16｜openit.ml
+      - 🇺🇸 US 17｜openit.ml
+      - 🇺🇸 US 18｜openit.ml
+      - 🇺🇸 US 19｜openit.ml
+      - 🇺🇸 US 1｜openit.ml
+      - 🇺🇸 US 20｜openit.ml
+      - 🇺🇸 US 21｜openit.ml
+      - 🇺🇸 US 22｜openit.ml
+      - 🇺🇸 US 23｜openit.ml
+      - 🇺🇸 US 24｜openit.ml
+      - 🇺🇸 US 25｜openit.ml
+      - 🇺🇸 US 26｜openit.ml
+      - 🇺🇸 US 27｜openit.ml
+      - 🇺🇸 US 28｜openit.ml
+      - 🇺🇸 US 29｜openit.ml
+      - 🇺🇸 US 2｜openit.ml
+      - 🇺🇸 US 30｜openit.ml
+      - 🇺🇸 US 31｜openit.ml
+      - 🇺🇸 US 32｜openit.ml
+      - 🇺🇸 US 33｜openit.ml
+      - 🇺🇸 US 34｜openit.ml
+      - 🇺🇸 US 35｜openit.ml
+      - 🇺🇸 US 36｜openit.ml
+      - 🇺🇸 US 37｜openit.ml
+      - 🇺🇸 US 3｜openit.ml
+      - 🇺🇸 US 4｜openit.ml
+      - 🇺🇸 US 5｜openit.ml
+      - 🇺🇸 US 6｜openit.ml
+      - 🇺🇸 US 7｜openit.ml
+      - 🇺🇸 US 8｜openit.ml
+      - 🇺🇸 US 9｜openit.ml
+      - 🇺🇸 US PRO 01
+      - 🇺🇸 US PRO 02
+      - 🇺🇸 US PRO 03
+      - 🇺🇸 US PRO 04
+      - 🇺🇸 V1-美国01 中继A | 1.5x
+      - 🇺🇸 V1-美国01 中继B | 1.5x
+      - 🇺🇸 V1-美国01 中继C | 1.5x
+      - 🇺🇸 V1-美国01 中继D | 1.5x
+      - 🇺🇸 V2-美国01 中继E | 1.5x
+      - 🇺🇸 V2-美国03 中继A |  1.5x
+      - 🇺🇸 V2-美国03 中继B |  1.5x
+      - 🇺🇸 V2-美国03 中继C | 1.5x
+      - 🇺🇸 V2-美国03 中继D | 1.5x
+      - 🇺🇸 V2-美国03 中继E |  1.5x
+      - 🇺🇸 V3-IEPL专线 美国02 | 8x
+      - 🇺🇸 iplc|广美-原生01|1.5x
+      - 🇺🇸 iplc|广美-原生02|1.5x
+      - 🇺🇸 iplc|广美-原生03|1.5x
+      - 🇺🇸 iplc|广美-原生04|1.5x
+      - 🇺🇸 iplc|广美-原生05|1.5x
+      - 🇺🇸 vpnhat-US
+      - 🇺🇸 vpnhat-US 2
+      - 🇺🇸 vpnhat-US 3
+      - 🇺🇸 vpnhat-US 4
+      - 🇺🇸 vpnhat-US 5
+      - 🇺🇸 vpnhat-US 6
+      - 🇺🇸 vpnhat-US-iepl
+      - 🇺🇸 vpnhat-US-iepl 2
+      - 🇺🇸 vpnhat-US-iepl 3
+      - 🇺🇸 vpnpool-US
+      - 🇺🇸 vpnpool-US 2
+      - 🇺🇸 中转|美国01
+      - 🇺🇸 中转|美国02
+      - 🇺🇸 中转|美国03
+      - 🇺🇸 中转|美国04
+      - 🇺🇸 中转|美国05
+      - 🇺🇸 动态BGP IPLC|美国01(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国02(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国03(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国04(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国05(原生)|3x
+      - 🇺🇸 福利|美国|0.1x|限速10Mbps
+      - 🇺🇸 美国 01 | 直连
+      - 🇺🇸 美国 02 | 直连
+      - 🇺🇸 美国 IEPL 01
+      - 🇺🇸 美国 IEPL 02
+      - 🇺🇸 美国 IEPL 03
+      - 🇺🇸 美国 IEPL 04
+      - 🇺🇸 美国大陆优化4837-01
+      - 🇺🇸 美国大陆优化4837-02
+      - 🏳️‍🌈 下载专用|0.8x|支持大流量
+      - 🏳️‍🌈 加群 @yyjc_group 签到送流量
+rules:
+ - MATCH,🌐 Proxy
